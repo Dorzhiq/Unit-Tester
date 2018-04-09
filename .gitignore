@@ -1,0 +1,5 @@
+#Ignore Ignore_Files
+bin/
+out/
+.idea/
+27.03.2018.iml
