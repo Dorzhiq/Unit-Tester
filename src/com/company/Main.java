@@ -58,6 +58,7 @@ public class Main {
         for (String arg : args){
             list.add(arg);
         }
+        //some changes
 //        list.add("com.company.test1");
 //        list.add("com.company.test2");
 //        list.add("com.company.test3");
